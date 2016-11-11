@@ -1,2 +1,3 @@
 # JavaScript-Formatter
-Formats JavaScript porgram
+Formats JavaScript program
+Run the JavaScriptFormatter Driver Class.
