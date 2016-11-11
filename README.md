@@ -1,3 +1,3 @@
 # JavaScript-Formatter
-Formats JavaScript program \n
+Formats JavaScript program <br />
 Run the JavascriptFormatterRunner Class.
